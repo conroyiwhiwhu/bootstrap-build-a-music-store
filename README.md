@@ -1,5 +1,6 @@
-# Bootstrap Peer Review Project
+# Bootstrap Project: Music Store
 
-Tasked with creating a page to display the details of a record album. 
+Tasked with creating a responsive, mobile first web pages to display the details of a record album. 
 
-The starting page only needs to target medium and large devices; support for smaller devices added later.
+Quickly create applications that scale to devices of all sizes, and incorporate common components such as dialog boxes and validation.
+
