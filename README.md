@@ -1,6 +1,8 @@
-# Bootstrap Project: Music Store
+# Bootstrap: Build a Music Store
 
-Created a responsive, mobile first web pages to display the details of a record album, and incorporate common components such as dialog boxes and validation.
+HTML CSS JavaScript jQuery
 
-This project demonstrates knowledge of adding external libraries to enhance HTML applications.
+Created a responsive, mobile first web pages to display the details of a record album, and incorporate common components such as dialog boxes and validation. This project demonstrates knowledge of adding external libraries to enhance HTML applications.
+
+ Edx Project
 
