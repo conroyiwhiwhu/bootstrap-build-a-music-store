@@ -1,6 +1,6 @@
 {
   "name": "Build A Music Store",
   "tagline": "HTML CSS Bootstrap JavaScript jQuery",
-  "body": "# Bootstrap Project: Music Store\r\n\r\nCreated a responsive, mobile first web pages to display the details of a record album, and incorporate common components such as dialog boxes and validation.\r\n\r\nThis project demonstrates knowledge of adding external libraries to enhance HTML applications.\r\n\r\n",
+  "body": "# Bootstrap: Build a Music Store\r\n\r\nCreated a responsive, mobile first web pages to display the details of a record album, and incorporate common components such as dialog boxes and validation. This project demonstrates knowledge of adding external libraries to enhance HTML applications.\r\n\r\nEdx Project\r\n\r\n",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
